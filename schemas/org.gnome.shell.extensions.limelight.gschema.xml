@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="limelight">
+  <schema id="org.gnome.shell.extensions.limelight" path="/org/gnome/shell/extensions/limelight/">
+    <key name="inactive-opacity" type="i">
+      <default>80</default>
+      <range min="0" max="100"/>
+      <summary>Inactive Window Opacity %</summary>
+    </key>
+  </schema>
+</schemalist>
