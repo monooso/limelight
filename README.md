@@ -25,7 +25,7 @@ Open the extension's preferences (via Extension Manager or GNOME Extensions) to 
 
 ## Requirements
 
-GNOME Shell 48+.
+GNOME Shell 49+.
 
 ## Licence
 
