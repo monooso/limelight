@@ -1,0 +1,8 @@
+{
+  "name": "Limelight",
+  "description": "Dims inactive windows, so the one you're working on stands out.",
+  "uuid": "limelight@stephenlewis.me",
+  "shell-version": [
+    "49"
+  ]
+}
