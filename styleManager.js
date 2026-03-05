@@ -4,7 +4,7 @@ import {OPACITY_MAX, percentToOpacity} from './opacity.js';
 export class StyleManager {
     #focusSignalId;
     #settings;
-    #settingsChangedId;
+    #settingChangedId;
     #windowCreatedId;
 
     constructor(settings) {
